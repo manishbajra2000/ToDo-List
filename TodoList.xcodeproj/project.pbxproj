@@ -14,6 +14,7 @@
 		3A680E102C9571040094BA2A /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A680E0F2C9571040094BA2A /* ListRowView.swift */; };
 		3A680E122C9574D10094BA2A /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A680E112C9574D10094BA2A /* AddView.swift */; };
 		3A680E152C9585BB0094BA2A /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A680E142C9585BB0094BA2A /* ItemModel.swift */; };
+		3A696CDB2C99345100DA6398 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A696CDA2C99345100DA6398 /* NoItemsView.swift */; };
 		3ACBF8EB2C98839300B51C5A /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ACBF8EA2C98839300B51C5A /* ListViewModel.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		3A680E0F2C9571040094BA2A /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
 		3A680E112C9574D10094BA2A /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		3A680E142C9585BB0094BA2A /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
+		3A696CDA2C99345100DA6398 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 		3ACBF8EA2C98839300B51C5A /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,6 +85,7 @@
 				3A680E0D2C956E5F0094BA2A /* ListView.swift */,
 				3A680E0F2C9571040094BA2A /* ListRowView.swift */,
 				3A680E112C9574D10094BA2A /* AddView.swift */,
+				3A696CDA2C99345100DA6398 /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				3ACBF8EB2C98839300B51C5A /* ListViewModel.swift in Sources */,
 				3A680DFF2C956D270094BA2A /* TodoListApp.swift in Sources */,
 				3A680E0E2C956E5F0094BA2A /* ListView.swift in Sources */,
+				3A696CDB2C99345100DA6398 /* NoItemsView.swift in Sources */,
 				3A680E102C9571040094BA2A /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
